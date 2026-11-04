@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://HyperBrachydios.github.io/test-al-folio-template-copy-idk-how-github-pages-works-but-i-might-by-the-end-of-this/al-folio/sitemap.xml
+Sitemap: https://HyperBrachydios.github.io/test-al-folio-template-copy-idk-how-github-pages-works-but-i-might-by-the-end-of-this/sitemap.xml
